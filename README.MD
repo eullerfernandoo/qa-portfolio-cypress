@@ -1,5 +1,8 @@
 # SauceDemo - Testes Automatizados com Cypress
 
+![Cypress](https://img.shields.io/badge/Cypress-13-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 Projeto de testes end-to-end (E2E) para o site [SauceDemo](https://www.saucedemo.com/), desenvolvido durante mentoria de QA.
 
 ## 🧰 Tecnologias
